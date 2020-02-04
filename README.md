@@ -10,4 +10,4 @@ Created Master Calander to Filter the Data
 Year,QUARTER,MONTH,WEEK,DATE are the feilds for Master calander.
 you can select the DATE,---to Filter the data of particular Data on that Date.
 Created pie chart  with different types of  broadband Types.
-order type, Package type , Order status like cancelled-installed.compar
+order type, Package type , Order status like cancelled-installed.
